@@ -4,8 +4,8 @@ def fact(a):
         a_fact = a_fact * i
     return a_fact
 # simple method to find factorial of a number
-n = int(input())
-r = int(input())
+n = int(input()) //commit made by member1
+r = int(input()) 
 n_fact = fact(n)
 r_fact = fact(r)
 n_r_fact = fact(n - r) 
