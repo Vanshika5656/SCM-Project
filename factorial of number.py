@@ -1,4 +1,4 @@
-def fact(a):
+def factt(a):
     a_fact = 1
     for i in range(1, a + 1):
         a_fact = a_fact * i
