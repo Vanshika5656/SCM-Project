@@ -3,7 +3,7 @@ def fact(a):
     for i in range(1, a + 1):
         a_fact = a_fact * i
     return a_fact
-# simple method to find factorial of a number
+# simple method to find factorial of number
 n = int(input()) //commit made by member1
 r = int(input()) 
 n_fact = fact(n)
